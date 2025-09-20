@@ -1,0 +1,6 @@
+main function 
+while loop functions
+1. update_stats
+2. print_stats
+3. check_death (if die print death & end loop else ignore)
+
